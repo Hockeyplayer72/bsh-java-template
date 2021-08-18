@@ -1,0 +1,10 @@
+language: java11
+welcome_message: |
+  You have created a function using the java11
+  version of the OpenJDK.
+
+
+  git clone https://github.com/Hockeyplayer72/bsh-java-template.git
+
+
+  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
